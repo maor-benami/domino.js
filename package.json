@@ -1,0 +1,17 @@
+{
+  "name": "domino.js",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/maor-benami/domino.js",
+  "devDependencies": {
+    "sucrase": "^3.18.1",
+    "terser": "^5.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
